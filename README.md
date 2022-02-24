@@ -1,1 +1,1 @@
-# Personal-PC-Assistant - JINI
+# Personal-PC-Assistant -> JINI
